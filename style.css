@@ -20,8 +20,9 @@ div{
     gap: 10px;
 }
 
-.navbar .items{
+ .navbar .items{
     display: flex;
-    
-
+} 
+ .btn{
+    margin-right: 100px;
 }
